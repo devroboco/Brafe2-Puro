@@ -188,3 +188,12 @@ body {
 	font-size: 0.875em;
 	font-weight: normal;
 }
+
+.footer {
+	background: #e7e4d8;
+	text-align: center;
+	padding: 60px 0;
+	font-size: 1.125em;
+	line-height: 1.4em;
+	margin-top: 80px;
+}
