@@ -58,3 +58,10 @@ body {
 .header-menu li:first-child a::before {
 	content: '';
 }
+
+/* CONTEÚDO */
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
